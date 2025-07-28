@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/motu" mode="merge"/>
+    <filter root="/content/motu" mode="merge"/>
+    <filter root="/content/dam/motu" mode="merge">
+        <exclude pattern="/content/dam/motu(/.*)?"/>
+        <include pattern="/content/dam/motu/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/motu/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/motu" mode="merge"/>
+</workspaceFilter>

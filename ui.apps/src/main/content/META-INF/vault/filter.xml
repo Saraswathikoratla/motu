@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/motu/clientlibs"/>
+    <filter root="/apps/motu/components"/>
+    <filter root="/apps/motu/i18n"/>
+    <filter root="/apps/msm/motu_blueprint" mode="merge"/>
+</workspaceFilter>
