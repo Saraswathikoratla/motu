@@ -185,6 +185,29 @@
                     type="h2">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                 </policy_641528232375303>
+                <policy_6248450290791
+                    cq:styleDefaultClasses="dsfsd"
+                    jcr:lastModified="{Date}2025-07-28T11:16:13.493+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="component-policy-1"
+                    sling:resourceType="wcm/core/components/policy/policy"
+                    allowedTypes="[h1,h2,h3,h4,h5,h6]"
+                    linkDisabled="false"
+                    type="h1">
+                    <jcr:content jcr:primaryType="nt:unstructured"/>
+                    <cq:styleGroups jcr:primaryType="nt:unstructured">
+                        <item0 jcr:primaryType="nt:unstructured">
+                            <cq:styles jcr:primaryType="nt:unstructured">
+                                <item0
+                                    cq:styleClasses="horizontal "
+                                    cq:styleId="1753681567841"
+                                    cq:styleLabel="red"
+                                    jcr:primaryType="nt:unstructured"/>
+                            </cq:styles>
+                        </item0>
+                    </cq:styleGroups>
+                </policy_6248450290791>
             </title>
             <experiencefragment jcr:primaryType="nt:unstructured">
                 <policy_header
@@ -236,12 +259,12 @@
                     </cq:authoring>
                 </policy_1574694950110>
                 <policy_1574695586800
-                    cq:styleDefaultClasses="style-1"
+                    cq:styleDefaultClasses="style-2"
                     jcr:description="Allows the page components and defines the component mapping (this configures what components should be automatically created when authors drop assets from the content finder to the page editor)."
-                    jcr:lastModified="{Date}2025-07-28T10:05:41.582+05:30"
+                    jcr:lastModified="{Date}2025-07-28T11:02:54.310+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="policy-1"
+                    jcr:title="policy-2"
                     sling:resourceType="wcm/core/components/policy/policy"
                     components="[group:motu - Content,/apps/motu/components/form/container]"
                     layoutDisabled="false">
@@ -276,17 +299,22 @@
                                 <item0
                                     cq:styleClasses="bigscreen"
                                     cq:styleId="1753677322233"
-                                    cq:styleLabel="red"
+                                    cq:styleLabel="abc"
                                     jcr:primaryType="nt:unstructured"/>
                                 <item1
                                     cq:styleClasses="back-yellow"
                                     cq:styleId="1753677330085"
-                                    cq:styleLabel="yellow"
+                                    cq:styleLabel="efg"
                                     jcr:primaryType="nt:unstructured"/>
                                 <item2
                                     cq:styleClasses="back-green"
                                     cq:styleId="1753677334925"
-                                    cq:styleLabel="green"
+                                    cq:styleLabel="mno"
+                                    jcr:primaryType="nt:unstructured"/>
+                                <item3
+                                    cq:styleClasses="pqr"
+                                    cq:styleId="1753680760533"
+                                    cq:styleLabel="pqrs"
                                     jcr:primaryType="nt:unstructured"/>
                             </cq:styles>
                         </item0>

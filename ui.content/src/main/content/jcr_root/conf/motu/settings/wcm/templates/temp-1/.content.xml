@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Template"
     jcr:title="temp-1">
     <jcr:content
-        cq:lastModified="{Date}2025-07-28T10:05:41.589+05:30"
+        cq:lastModified="{Date}2025-07-28T11:16:13.503+05:30"
         cq:lastModifiedBy="admin"
         cq:templateType="/conf/motu/settings/wcm/template-types/page"
         jcr:primaryType="cq:PageContent"
